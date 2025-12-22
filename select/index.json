@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "天体観測",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-22T07:20:41.996411Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "天体観測",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_天体観測_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tentai Kansoku [天体観測]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_Tentai_Kansoku_[天体観測]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "天体観測",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/03_天体観測_高木さん(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "天体観測",
+      "artist": "kousakisatoru",
+      "has_synced": false,
+      "path": "select/04_天体観測_kousakisatoru.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "天体観測",
+      "artist": "神前暁",
+      "has_synced": false,
+      "path": "select/05_天体観測_神前暁.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "天体観測",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/06_天体観測_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "天体観測",
+      "artist": "高木さん (高橋李依)",
+      "has_synced": true,
+      "path": "select/07_天体観測_高木さん_(高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "天体観測",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/08_天体観測_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "天体観測 - Tentaikansoku",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/09_天体観測_-_Tentaikansoku_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "BUMP OF CHICKEN『天体観測』",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/10_BUMP_OF_CHICKEN『天体観測』_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "天体観測",
+      "artist": "高木さん",
+      "has_synced": true,
+      "path": "select/11_天体観測_高木さん.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "天体観測",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/12_天体観測_高木さん(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "天体観測 (2022 Rerecording Version)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/13_天体観測_(2022_Rerecording_Version)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "天体観測",
+      "artist": "高木さん(CV.高橋李依)",
+      "has_synced": true,
+      "path": "select/14_天体観測_高木さん(CV.高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "天体観測",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/15_天体観測_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "天体観測 - 2022 Rerecording Version",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/16_天体観測_-_2022_Rerecording_Version_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "天体観測",
+      "artist": "Crystal Kay",
+      "has_synced": true,
+      "path": "select/17_天体観測_Crystal_Kay.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天体観測",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_天体観測_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
